@@ -7,7 +7,7 @@
   <li>PageScroll2id - плавная прокрутка при переходе по ссылкам внутри сайта</li>
 </ul>
 
-Ссылка на <a href="https://romanvaskov.github.io/apollo/">демонстрацию сайта</a>
+Ссылка на <a href="https://romanvaskov.github.io/apollo/" target="_blank">демонстрацию сайта</a>
 
 Для локального тестирования:
 1. Клонировать на локальный ПК репозиторий. 
